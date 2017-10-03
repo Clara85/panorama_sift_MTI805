@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\cvimage.o
+./debug\imagewidget.o
+./debug\textwidget.o
+./debug\cvsift.o
+./debug\cvmatch.o
+./debug\moc_mainwindow.o
+./debug\moc_imagewidget.o
+./debug\moc_textwidget.o
+);
